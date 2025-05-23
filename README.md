@@ -7,7 +7,7 @@
 
 **IronVeil** is a cutting-edge, kernel-level anti-cheat framework designed to detect and prevent cheating in multiplayer games. By operating at the kernel level, IronVeil can provide robust protection against both user-mode and kernel-mode cheats, offering game developers a powerful tool to maintain game integrity.
 
-> ⚠️ This project is intended for educational and research purposes only. Unauthorized use in commercial environments without proper permissions may violate software and hardware terms of service.
+> ⚠️ This project is intended for use by purchase only. Unauthorized use in commercial environments without proper permissions may violate software and hardware terms of service.
 
 ## Features
 
