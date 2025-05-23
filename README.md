@@ -1,4 +1,4 @@
-# IronVeil - Kernel-Level Anti-Cheat
+# IronVeil -  Anti-Cheat
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-in%20development-orange)
