@@ -1,6 +1,7 @@
 #include "logger.hpp"
+#include <cstring> // For strlen
 
-namespace MyLogger
+namespace IronLog
 {
     std::ofstream logfile;
 
@@ -30,7 +31,7 @@ namespace MyLogger
 
         time_t now = std::time(nullptr);
         char *dt = std::ctime(&now);
-        dt[strlen(dt) - 1] = '\0'; // Remove newline
+        dt[strlen(dt) - 1] = '\0'; // Remove trailing newline
 
         logfile << dt << " " << prefix << message << std::endl;
     }

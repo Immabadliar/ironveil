@@ -1,9 +1,7 @@
-#if defined(__linux__)
-#include "core.hpp"
 #include <iostream>
 
-void runCoreLogic()
+void runCoreLogicLinux()
 {
-    std::cout << "[Ironveil] Running on Linux.\n";
+    std::cout << "Running Linux core logic!" << std::endl;
+    // Your Linux-specific code here
 }
-#endif

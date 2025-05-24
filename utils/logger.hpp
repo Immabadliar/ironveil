@@ -1,12 +1,12 @@
-#ifndef MY_LOGGER_HPP
-#define MY_LOGGER_HPP
+#ifndef LOGGER_HPP
+#define LOGGER_HPP
 
 #include <string>
 #include <fstream>
 #include <iostream>
 #include <ctime>
 
-namespace MyLogger
+namespace IronLog
 {
     enum class LogLevel
     {

@@ -1,9 +1,6 @@
-#if defined(_WIN32)
-#include "core.hpp"
 #include <iostream>
 
-void runCoreLogic()
+void runCoreLogicWindows()
 {
-    std::cout << "[Ironveil] Running on Windows.\n";
+    std::cout << "Running Windows core logic!" << std::endl;
 }
-#endif

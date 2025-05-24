@@ -1,9 +1,6 @@
-#if defined(__APPLE__)
-#include "core.hpp"
 #include <iostream>
 
-void runCoreLogic()
+void runCoreLogicMac()
 {
-    std::cout << "[Ironveil] Running on macOS.\n";
+    std::cout << "Running macOS core logic!" << std::endl;
 }
-#endif

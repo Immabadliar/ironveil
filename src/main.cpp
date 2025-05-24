@@ -1,23 +1,39 @@
 #include <iostream>
-#include "./utils/logger.hpp"
-#include "./core/core.hpp"
+#include "../utils/logger.hpp"
+
+void runCoreLogicWindows()
+{
+    IronLog::log("Running Windows core logic");
+}
+
+void runCoreLogicMac()
+{
+    IronLog::log("Running MacOS core logic");
+}
+
+void runCoreLogicLinux()
+{
+    IronLog::log("Running Linux core logic");
+}
 
 int main()
 {
-    MyLogger::init("app.log");
-    std::cout << "Starting Ironveil Anti-Cheat\n";
+    IronLog::init("app.log");
+    std::cout << "Screw you, spdlog!" << '\n';
 
 #if defined(_WIN32)
-    MyLogger::log("User on WIN32");
+    IronLog::log("User on WIN32");
+    runCoreLogicWindows();
 #elif defined(__APPLE__)
-    MyLogger::log("User on MACOS");
+    IronLog::log("User on MACOS");
+    runCoreLogicMac();
 #elif defined(__linux__)
-    MyLogger::log("User on Linux");
+    IronLog::log("User on Linux");
+    runCoreLogicLinux();
 #else
-    MyLogger::log("User on Unknown OS");
+    IronLog::log("User on unknown OS");
 #endif
 
-    runCoreLogic();
-
+    IronLog::close();
     return 0;
 }
