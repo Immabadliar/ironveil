@@ -7,3 +7,26 @@ Sat May 24 19:18:44 2025 [WARN] Testing warn
 Sat May 24 19:18:44 2025 [ERROR] Testing err
 Sat May 24 19:18:44 2025 [INFO] User on MACOS
 Sat May 24 19:18:44 2025 [INFO] Running MacOS core logic
+Sun May 25 18:50:12 2025 [INFO] User on WIN32
+Sun May 25 18:50:15 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\danielayecodesense.roblox-lsp-plus-knit-0.0.6\client\node_modules\debug\README.md
+Sun May 25 18:50:15 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\danielayecodesense.roblox-lsp-plus-knit-0.0.6\client\node_modules\debug\src\browser.js
+Sun May 25 18:50:15 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\danielayecodesense.roblox-lsp-plus-knit-0.0.6\client\node_modules\debug\src\node.js
+Sun May 25 18:50:18 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\danielayecodesense.roblox-lsp-plus-knit-0.0.6\client\node_modules\minimatch\minimatch.js
+Sun May 25 18:50:18 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\danielayecodesense.roblox-lsp-plus-knit-0.0.6\client\node_modules\node-fetch\lib\index.es.js
+Sun May 25 18:50:18 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\danielayecodesense.roblox-lsp-plus-knit-0.0.6\client\node_modules\node-fetch\lib\index.js
+Sun May 25 18:50:18 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\danielayecodesense.roblox-lsp-plus-knit-0.0.6\client\node_modules\node-fetch\lib\index.mjs
+Sun May 25 18:50:20 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\danielayecodesense.roblox-lsp-plus-knit-0.0.6\client\node_modules\unpipe\index.js
+Sun May 25 18:50:23 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\danielayecodesense.roblox-lsp-plus-knit-0.0.6\server\api\API-Docs.json
+Sun May 25 18:50:24 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\danielayecodesense.roblox-lsp-plus-knit-0.0.6\server\api\API-Dump.json
+Sun May 25 18:50:26 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\esbenp.prettier-vscode-11.0.0\dist\web-extension.js
+Sun May 25 18:50:27 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\esbenp.prettier-vscode-11.0.0\node_modules\prettier\index.js
+Sun May 25 18:50:27 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\esbenp.prettier-vscode-11.0.0\node_modules\prettier\parser-babel.js
+Sun May 25 18:50:28 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\esbenp.prettier-vscode-11.0.0\node_modules\prettier\parser-espree.js
+Sun May 25 18:50:28 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\esbenp.prettier-vscode-11.0.0\node_modules\prettier\parser-flow.js
+Sun May 25 18:50:28 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\esbenp.prettier-vscode-11.0.0\node_modules\prettier\parser-glimmer.js
+Sun May 25 18:50:28 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\esbenp.prettier-vscode-11.0.0\node_modules\prettier\parser-meriyah.js
+Sun May 25 18:50:28 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\esbenp.prettier-vscode-11.0.0\node_modules\prettier\parser-typescript.js
+Sun May 25 18:50:29 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\esbenp.prettier-vscode-11.0.0\node_modules\prettier\standalone.js
+Sun May 25 18:50:30 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\formulahendry.auto-rename-tag-0.1.10\packages\extension\dist\extensionMain.js.map
+Sun May 25 18:50:30 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\formulahendry.code-runner-0.12.2\node_modules\applicationinsights\Library\Client.js
+Sun May 25 18:50:32 2025 [WARN] Cheat detected: C:\Users\zeddr\.vscode\extensions\formulahendry.code-runner-0.12.2\node_modules\zone.js\lib\common\utils.ts
