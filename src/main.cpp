@@ -36,6 +36,7 @@ void scanDirectoryForCheats(const boost::filesystem::path& dirPath, const boost:
     }
     catch (const boost::filesystem::filesystem_error& ex) {
         std::cerr << "Filesystem error: " << ex.what() << std::endl;
+        IronLog::log("Filesystem error: " + std::string(ex.what()), IronLog::LogLevel::ERROR);
     }
 }
 
