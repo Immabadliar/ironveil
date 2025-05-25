@@ -20,7 +20,6 @@ int main()
 {
     IronLog::init("app.log");
     std::cout << "Screw you, spdlog!" << '\n';
-
 #if defined(_WIN32)
     IronLog::log("User on WIN32");
     runCoreLogicWindows();
@@ -31,7 +30,7 @@ int main()
     IronLog::log("User on Linux");
     runCoreLogicLinux();
 #else
-    IronLog::log("User on unknown OS");
+    IronLog::warn("User on unknown OS");
 #endif
 
     IronLog::close();

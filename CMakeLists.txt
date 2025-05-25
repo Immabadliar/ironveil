@@ -15,9 +15,6 @@ include_directories(
 
 add_executable(ironveil
     src/main.cpp
-    src/core/scanner.cpp
-    src/core/process_monitor.cpp
-    src/platform/macos.cpp
 )
 
 target_link_libraries(ironveil

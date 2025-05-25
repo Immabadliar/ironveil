@@ -1,3 +1,9 @@
 Sat May 24 13:08:04 2025 [INFO] Use on MACOS
 Sat May 24 13:27:55 2025 [INFO] User on MACOS
 Sat May 24 13:27:55 2025 [INFO] Running MacOS core logic
+Sat May 24 18:51:35 2025 [INFO] User on MACOS
+Sat May 24 18:51:35 2025 [INFO] Running MacOS core logic
+Sat May 24 19:18:44 2025 [WARN] Testing warn
+Sat May 24 19:18:44 2025 [ERROR] Testing err
+Sat May 24 19:18:44 2025 [INFO] User on MACOS
+Sat May 24 19:18:44 2025 [INFO] Running MacOS core logic
