@@ -48,14 +48,6 @@ int main()
     std::cout << "Screw you, spdlog!" << '\n';
 #if defined(_WIN32)
     IronLog::log("User on WIN32");
-#elif defined(__APPLE__)
-    IronLog::log("User on MACOS");
-#elif defined(__linux__)
-    IronLog::log("User on Linux");;
-#else
-    IronLog::warn("User on unknown OS");
-#endif
-
     const char* userProfile = std::getenv("USERPROFILE");  // Windows
     if (!userProfile) {
         std::cerr << "Could not find USERPROFILE environment variable." << std::endl;
@@ -67,6 +59,14 @@ int main()
 
     boost::regex cheatRegex("aimbot|wallhack|cheat|hack", boost::regex_constants::icase);
     scanDirectoryForCheats(userFolder, cheatRegex);
+#elif defined(__APPLE__)
+    IronLog::log("User on MACOS");
+#elif defined(__linux__)
+    IronLog::log("User on Linux");;
+#else
+    IronLog::warn("User on unknown OS");
+#endif
+
 
     IronLog::close();
     return 0;
