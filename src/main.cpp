@@ -1,11 +1,9 @@
 #include <iostream>
 #include "../utils/logger.hpp"
-// Standard Library
-#include <chrono>
+/* #include <chrono>
 #include <cstring>
 #include <fstream>
 #include <iomanip>
-#include <iostream>
 #include <sstream>
 #include <string>
 #include <thread>
@@ -47,7 +45,7 @@
 #include <openssl/sha.h>
 
 // Capstone
-#include <capstone/capstone.h>
+#include <capstone/capstone.h> */
 
 void runCoreLogicWindows()
 {
