@@ -95,7 +95,7 @@ License tiers include:
 - **Studio Tier**: For medium to large studios with dedicated support, private builds, and priority updates.
 - **Enterprise Tier**: Includes source access, full audit trail, and compliance-level support.
 
-For a commercial license or white-label integration, contact `legal@ironveil.ac`.
+For a commercial license or white-label integration, contact `legal@ironveil.com`.
 
 ---
 
@@ -135,7 +135,7 @@ To contribute:
 
 For more information, partnership opportunities, or technical support:
 
-- Email: `contact@ironveil.ac`
+- Email: `contact@ironveil.com`
 - Discord: `@IronVeilSupport`
 - Website: *Coming Soon*
 
